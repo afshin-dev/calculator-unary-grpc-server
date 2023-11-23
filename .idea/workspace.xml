@@ -18,6 +18,9 @@
     </option>
   </component>
   <component name="GOROOT" url="file://C:/Program Files/Go" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2YZkVEUy15xTJcgg4I1P3hnL0Vz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
